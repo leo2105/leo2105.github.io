@@ -3,7 +3,6 @@
 
 In this blog I will talk about technologies that I read everyday. A little summary about my daily knowledge.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### June 23, 2017
 
@@ -13,5 +12,5 @@ It was not a coincidence that Kasparov became the symbol of man's fight against 
 
 First of June, Garry Kasparov released his new book "Deep Thinking" where he examples mainly about chess like a lifestyle.
 
-Discussion about Gary's match against Deep Blue and his thoughts on the future of AI in the world of chess between Gary Kasparov and DeepMind's CEO Demis Hassabis [Gary Kasparov: "Deep Thinking" | Talks at Google](https://www.youtube.com/watch?v=zhkTHkIZJEc). 
+Discussion about Gary's match against Deep Blue and his thoughts on the future of AI in the world of chess between Gary Kasparov and DeepMind's CEO Demis Hassabis [Gary Kasparov: "Deep Thinking"  Talks at Google](https://www.youtube.com/watch?v=zhkTHkIZJEc). 
 

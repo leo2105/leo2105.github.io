@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to the Blog of Leonardo
 
-You can use the [editor on GitHub](https://github.com/leo2105/leo2105.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+In this blog I will talk about technologies that I read everyday. A little summary about my daily knowledge.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

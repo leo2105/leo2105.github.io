@@ -5,34 +5,13 @@ In this blog I will talk about technologies that I read everyday. A little summa
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### June 23, 2017
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In May 1997, The world watched as Garry Kasparov, the greatest chess player in the world, was defeated for the first time by the IBM supercomputer Deep Blue. It was one of the best moments in the history of technology: machine intelligence had arrived at the point where it could best human intellect.
 
-```markdown
-Syntax highlighted code block
+It was not a coincidence that Kasparov became the symbol of man's fight against the machines. Chess has long been the fulcrum in development of machine intelligence; the hoax automaton 'The Turk' in the 18th century and Alan Turing's first chess programa in 1952 were two early examples of the quest for machine to think like humans -- a talent we measured by their ability to beat their creators at chess. During 80s and 90s, Kasparov was defeating strongest computer champions, contributing to their development and advancing he field.
 
-# Header 1
-## Header 2
-### Header 3
+First of June, Garry Kasparov released his new book "Deep Thinking" where he examples mainly about chess like a lifestyle.
 
-- Bulleted
-- List
+Discussion about Gary's match against Deep Blue and his thoughts on the future of AI in the world of chess between Gary Kasparov and DeepMind's CEO Demis Hassabis [Gary Kasparov: "Deep Thinking" | Talks at Google](https://www.youtube.com/watch?v=zhkTHkIZJEc). 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leo2105/leo2105.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

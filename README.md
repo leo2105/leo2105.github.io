@@ -14,3 +14,6 @@ First of June, Garry Kasparov released his new book "Deep Thinking" where he exa
 
 Discussion about Gary's match against Deep Blue and his thoughts on the future of AI in the world of chess between Gary Kasparov and DeepMind's CEO Demis Hassabis [Gary Kasparov: "Deep Thinking"  Talks at Google](https://www.youtube.com/watch?v=zhkTHkIZJEc). 
 
+### June 24 & 25, 2017
+
+Dynamic Compare and Balance algorithm for Load Balancing. The best approach to take it is doing Cloud Computing.
